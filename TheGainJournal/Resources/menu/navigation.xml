@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_workout"
+        android:icon="@drawable/ic_workout_white"
+        android:title="@string/title_workout" />
+
+    <item
+        android:id="@+id/navigation_you"
+        android:icon="@drawable/ic_you_white"
+        android:title="@string/title_you" />
+
+    <item
+        android:id="@+id/navigation_management"
+        android:icon="@drawable/ic_settings_white"
+        android:title="@string/title_management" />
+
+</menu>
